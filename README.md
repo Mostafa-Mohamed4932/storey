@@ -48,7 +48,7 @@ Once the application is running, users can:
 - Tap on a book to view more details.
 - Add books to their cart by tapping on the "Add to Cart" button.
 - View their cart by tapping on the cart icon.
-- Remove items from the cart if desired.
+
 
 ## Contributing
 
